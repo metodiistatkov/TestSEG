@@ -17,14 +17,14 @@ public class Model {
         csvDatabase.createConnection();
         queryDB = new QueryDB(csvDatabase.getMakeConnection());
 
-        controller.updateLoading(1);
+        //controller.updateLoading(1);
 
         pathImpression = filePaths[0];
         String typesImpression = "Entry_Date INTEGER, ID INTEGER, Gender TEXT, AGE Text, Income TEXT, Context TEXT, Impression_Cost REAL";
         String colNamesImpression ="Entry_Date,ID,Gender,AGE,Income, Context, Impression_Cost";
         csvDatabase.readCSV(pathImpression, "ImpressionLog", typesImpression, colNamesImpression);
 
-        controller.updateLoading(2);
+        //controller.updateLoading(2);
 
         pathClick = filePaths[1];
         String typesClick = "Entry_Date INTEGER, ID INTEGER, Click_Cost REAL";
@@ -39,7 +39,7 @@ public class Model {
 
         clickLogThread.start();
 
-        controller.updateLoading(3);
+      //  controller.updateLoading(3);
 
         pathServer = filePaths[2];
         String typesServer = "Entry_Date INTEGER, ID INTEGER, Exit_Date TEXT, Pages_Viewed INTEGER, Conversion BLOB";
@@ -53,7 +53,7 @@ public class Model {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        controller.updateLoading(4);
+      //  controller.updateLoading(4);
     }
 
     public double executeQuery(String query) {

@@ -3,51 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="711ccabc-eb6f-4024-9469-7738afdd9878" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ChangeAppearancePanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ChangeAppearancePanel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ChangeAppearancePanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ChangeAppearancePanel$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ChangeAppearancePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ChangeAppearancePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chart$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chart$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chart$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chart$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chart$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chart$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Chart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Chart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ChartsPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ChartsPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CreateDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreateDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DashboardFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DashboardFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FileSelectPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FileSelectPanel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FileSelectPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FileSelectPanel$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FileSelectPanel$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FileSelectPanel$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FileSelectPanel$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FileSelectPanel$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FileSelectPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FileSelectPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FilterPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FilterPanel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FilterPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FilterPanel$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FilterPanel$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FilterPanel$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FilterPanel$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FilterPanel$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FilterPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FilterPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HistogramOfClickCostsPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HistogramOfClickCostsPanel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HistogramOfClickCostsPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HistogramOfClickCostsPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KeyMetricContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/KeyMetricContainer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KeyMetrics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/KeyMetrics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KeyMetricsPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/KeyMetricsPanel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/KeyMetricsPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/KeyMetricsPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LoadingFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LoadingFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MakeConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MakeConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Model$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/QueryDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/QueryDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SettingsPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SettingsPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SplashScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SplashScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/View$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestKeyMetrics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestKeyMetrics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestKeyMetrics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestKeyMetrics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestKeyMetrics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestKeyMetrics.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TestKeyMetrics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestKeyMetrics.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,19 +22,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestKeyMetrics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+            <state relative-caret-position="352">
+              <caret line="49" column="58" lean-forward="true" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4503#4504#0" expanded="true" />
+                <element signature="e#4593#4594#0" expanded="true" />
+                <element signature="e#4655#4656#0" expanded="true" />
+                <element signature="e#4755#4756#0" expanded="true" />
+                <element signature="e#5831#5832#0" expanded="true" />
+                <element signature="e#5885#5886#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -126,8 +100,9 @@
         <option value="$PROJECT_DIR$/src/main/java/HistogramOfClickCostsPanel.java" />
         <option value="$PROJECT_DIR$/src/test/java/KeyMetricsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/FilterPanel.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestKeyMetrics.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Model.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestKeyMetrics.java" />
       </list>
     </option>
   </component>
@@ -239,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.TestKeyMetrics">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TestSEG" />
@@ -258,8 +233,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TestKeyMetrics" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -274,6 +249,14 @@
       <option name="presentableId" value="Default" />
       <updated>1555877863134</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1556625271128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556625271128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -289,9 +272,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -306,7 +288,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32896176" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3293348" />
@@ -320,6 +302,10 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/ChartsPanel.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -328,9 +314,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SplashScreen.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Model.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/QueryDB.java">
@@ -396,13 +379,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestKeyMetrics.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -423,10 +403,26 @@
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="142">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestKeyMetrics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="49" column="58" lean-forward="true" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4503#4504#0" expanded="true" />
+            <element signature="e#4593#4594#0" expanded="true" />
+            <element signature="e#4655#4656#0" expanded="true" />
+            <element signature="e#4755#4756#0" expanded="true" />
+            <element signature="e#5831#5832#0" expanded="true" />
+            <element signature="e#5885#5886#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
